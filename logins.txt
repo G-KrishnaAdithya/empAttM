@@ -1,0 +1,2 @@
+hrid : 123456
+password : 7890
