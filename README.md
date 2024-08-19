@@ -7,3 +7,8 @@ To use the project, follow these steps:
 4. Install the requirements using the command:
    ```bash
    pip install -r requirements.txt
+5. Run the app using:
+   ```bash
+   python app.py
+6. A login screen will be displayed. Login using the credentials provided. For login credentials, please refer to logins.txt in the project folder.
+7. After successful login, predict the employee's attrition using the interactive UI.
